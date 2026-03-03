@@ -317,8 +317,8 @@
     {
       "matchId": "459242528740048",
       "opp": "spc leverkusek",
-      "score": "0-3",
-      "result": "L",
+      "score": "3-3",
+      "result": "D",
       "league": "EA_FRIENDLY",
       "fc26season": "S2",
       "date": "2026-03-01",
@@ -366,7 +366,7 @@
         {
           "username": "Lord_Mck03",
           "match_rating": 7.1,
-          "goals": 0,
+          "goals": 1,
           "assists": 0,
           "shots": 0,
           "passes_made": 0,
@@ -380,7 +380,7 @@
           "username": "Ulyssianho-17",
           "match_rating": 7.8,
           "goals": 0,
-          "assists": 0,
+          "assists": 2,
           "shots": 0,
           "passes_made": 0,
           "tackles_made": 0,
@@ -392,7 +392,7 @@
         {
           "username": "Warzde",
           "match_rating": 8,
-          "goals": 0,
+          "goals": 1,
           "assists": 0,
           "shots": 0,
           "passes_made": 0,
@@ -457,7 +457,7 @@
         {
           "username": "mrjordan_237",
           "match_rating": 7.7,
-          "goals": 0,
+          "goals": 1,
           "assists": 0,
           "shots": 0,
           "passes_made": 0,
