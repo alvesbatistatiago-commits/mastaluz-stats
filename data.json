@@ -2401,7 +2401,7 @@
       "opp": "JoGa Esport",
       "score": "3-0",
       "result": "W",
-      "league": "EA_FRIENDLY",
+      "league": "FR",
       "fc26season": "S2",
       "date": "2026-03-02",
       "home": false,
@@ -2435,7 +2435,7 @@
         {
           "username": "Lord_Mck03",
           "match_rating": 6.9,
-          "goals": 0,
+          "goals": 1,
           "assists": 0,
           "shots": 0,
           "passes_made": 0,
